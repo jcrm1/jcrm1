@@ -11,3 +11,5 @@ Among other things, here are some of the projects I am working on or have worked
 You can see these projects (and more!) in my profile below.
 
 I also enjoy security research for macOS and iOS!
+
+I recently entered a CTF for the first time with Purdue b01lers. My team got sixth. It was fun- I'd definitely like to do another!
