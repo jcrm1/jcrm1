@@ -12,4 +12,4 @@ You can see these projects (and more!) in my profile below.
 
 I also enjoy security research for macOS and iOS!
 
-I recently entered a CTF for the first time with Purdue b01lers. My team got sixth. It was fun- I'd definitely like to do another!
+I recently entered a CTF for the first time with Purdue b01lers. My team got sixth. It was fun- I'd definitely like to enter one again!
