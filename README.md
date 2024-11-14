@@ -9,7 +9,7 @@ Among other things, here are some of the projects I am working on or have worked
  - 3DeSktop and threedsmirror, a client/server pair that streams your macOS desktop to your 3DS (a handheld game console)
  - 3DSUSBController, a three-part project that turns your 3DS into a wireless USB game controller
  - ROSCC, a modification for Minecraft that bridges it with ROS to help teach ROS to new members of Purdue ARC (available on the [`purdue-arc`](https://github.com/purdue-arc) GitHub page)
- - Several web extensions
+ - Several browser extensions
 
 You can see these projects (and more!) in my profile below.
 
