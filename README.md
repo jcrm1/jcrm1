@@ -10,7 +10,7 @@ Among other things, here are some of the projects I am working on or have worked
  - 3DSUSBController, a three-part project that turns your 3DS into a wireless USB game controller
  - ROSCC, a modification for Minecraft that bridges it with ROS to help teach ROS to new members of Purdue ARC (available on the [`purdue-arc`](https://github.com/purdue-arc) GitHub page)
  - Several browser extensions
- - Create New Age unofficial v1.1.3 (on my GitLab)
+ - Create New Age unofficial v1.1.3 with improved electricity and heat distribution performance (on my GitLab)
 
 You can see these projects (and more!) in my profile below.
 
