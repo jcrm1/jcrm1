@@ -12,6 +12,7 @@ Among other things, here are some of the public projects I am working on or have
  - Several browser extensions
  - Create New Age unofficial v1.1.3 with improved electricity and heat distribution performance ([on my GitLab](https://gitlab.com/jcrm1/create-new-age-newnetworks/-/tree/forge))
    - I doubled performance with power grids by rewriting the electricity engine to *not* run BFS several times every tick! Gameplay changes are in the repository description.
+ - I participated in Global Game Jam 2025! My team made a 2D platformer for the Game Boy Advance. We used the Butano library for graphics, audio, and input. It was a lot of fun, and I learned a lot about writing game engines! You can find our game here: [Sporb](https://github.com/ArtemiiAkhunov/Sporb)
 
 You can see these projects (and more!) in my profile below.
 
