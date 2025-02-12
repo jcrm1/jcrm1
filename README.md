@@ -15,7 +15,7 @@ Among other things, here are some of the public projects I am working on or have
  - I participated in Global Game Jam 2025! My team made a 2D platformer for the Game Boy Advance. We used the Butano library for graphics, audio, and input. It was a lot of fun, and I learned a lot about writing game engines! You can find our game here: [Sporb](https://github.com/ArtemiiAkhunov/Sporb)
  - I have also written a number of other Minecraft plugins and mods. Most of them are private, but every now and then I publish one here on GitHub.
    - [GrapplingHook](https://github.com/jcrm1/GrapplingHook) adds a grappling hook that behaves like the grappling hook available on Hypixel.
-   - [BaconTweaks](https://github.com/jcrm1/bacontweaks) is a collection of useful tweaks I made for a private Minecraft server.
+   - [BaconTweaks](https://github.com/jcrm1/bacontweaks) is a collection of useful addons and tweaks I made for a private Minecraft server.
 
 You can see these projects (and more!) in my profile below.
 
