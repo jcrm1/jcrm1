@@ -16,6 +16,8 @@ Among other things, here are some of the public projects I am working on or have
  - I have also written a number of other Minecraft plugins and mods. Most of them are private, but every now and then I publish one here on GitHub.
    - [GrapplingHook](https://github.com/jcrm1/GrapplingHook) adds a grappling hook that behaves like the grappling hook available on Hypixel.
    - [BaconTweaks](https://github.com/jcrm1/bacontweaks) is a collection of useful addons and tweaks I made for a private Minecraft server.
+   - BlockSumo is a plugin that implements the Block Sumo game available on the Bedwars Practice Server.
+   - BedwarsPlugin is a plugin that implements a faithful replica of the Bed Wars game available on Hypixel.
 
 You can see these projects (and more!) in my profile below.
 
