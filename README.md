@@ -10,7 +10,7 @@ Among other things, here are some of the public projects I am working on or have
  - 3DSUSBController, a [three](https://github.com/jcrm1/3DSUSBController-Homebrew)-[part](https://github.com/jcrm1/3DSUSBController-Server) [project](https://github.com/jcrm1/3DSUSBController-USB-Device) that turns your 3DS into a wireless USB game controller
  - [ROSCC](https://github.com/purdue-arc/ROSCC), a modification for Minecraft that bridges it with ROS to help teach ROS to new members of Purdue ARC
  - Several ([dumb](https://github.com/jcrm1/GHCommitGraphAnimator)) browser extensions
- - Create New Age unofficial v1.1.3 with improved electricity and heat distribution performance ([on my GitLab](https://gitlab.com/jcrm1/create-new-age-newnetworks/-/tree/forge))
+ - Create: New Age (a Minecraft mod) unofficial v1.1.3 with improved electricity and heat distribution performance ([on my GitLab](https://gitlab.com/jcrm1/create-new-age-newnetworks/-/tree/forge))
    - I doubled performance with power grids by rewriting the electricity engine to *not* run BFS several times every tick! Gameplay changes are in the repository description.
  - I participated in Global Game Jam 2025! My team made a 2D platformer for the Game Boy Advance. We used the Butano library for graphics, audio, and input. It was a lot of fun, and I learned a lot about writing game engines! You can find our game here: [Sporb](https://github.com/ArtemiiAkhunov/Sporb)
  - I have also written a number of other Minecraft plugins and mods. Most of them are private, but every now and then I publish one here on GitHub.
