@@ -14,8 +14,8 @@ Among other things, here are some of the public projects I am working on or have
    - I doubled performance with power grids by rewriting the electricity engine to *not* run BFS several times every tick! Gameplay changes are in the repository description.
  - I participated in Global Game Jam 2025! My team made a 2D platformer for the Game Boy Advance. We used the Butano library for graphics, audio, and input. It was a lot of fun, and I learned a lot about writing game engines! You can find our game here: [Sporb](https://github.com/ArtemiiAkhunov/Sporb)
  - I have also written a number of other Minecraft plugins and mods. Most of them are private, but every now and then I publish one here on GitHub.
-   - ⛏ [GrapplingHook](https://github.com/jcrm1/GrapplingHook) adds a grappling hook that behaves like the grappling hook available on Hypixel.
-   - ⛏ [BaconTweaks](https://github.com/jcrm1/bacontweaks) is a collection of useful addons and tweaks I made for a private Minecraft server.
+   - ⛏ [GrapplingHook](https://github.com/jcrm1/GrapplingHook) is a plugin that adds a grappling hook that behaves like the grappling hook available on Hypixel.
+   - ⛏ [BaconTweaks](https://github.com/jcrm1/bacontweaks) is a collection of useful addons and tweaks I made for a private Minecraft server. It is a Forge mod.
    - ⛏ BlockSumo is a plugin that implements the Block Sumo game available on the Bedwars Practice Server.
    - ⛏ BedwarsPlugin is a plugin that implements a faithful replica of the Bed Wars game available on Hypixel.
    - ⛏ SteVTuber is a mod that adds a key to toggle the player's head into a face tracking mode (when paired with an OpenTrack-compatible face tracker app), allowing the player to use their Minecraft character as a virtual persona.
