@@ -18,7 +18,7 @@ Among other things, here are some of the public projects I am working on or have
    - ⛏ [BaconTweaks](https://github.com/jcrm1/bacontweaks) is a collection of useful addons and tweaks I made for a private Minecraft server.
    - ⛏ BlockSumo is a plugin that implements the Block Sumo game available on the Bedwars Practice Server.
    - ⛏ BedwarsPlugin is a plugin that implements a faithful replica of the Bed Wars game available on Hypixel.
-   - ⛏ SteVTuber is a mod that adds a key to toggle the player's head into a face tracking mode (when paired with an OpenTrack-compatible face tracker app), allowing the player to user their Minecraft character as a virtual persona.
+   - ⛏ SteVTuber is a mod that adds a key to toggle the player's head into a face tracking mode (when paired with an OpenTrack-compatible face tracker app), allowing the player to use their Minecraft character as a virtual persona.
 
 You can see these projects (and more!) in my profile below.
 
