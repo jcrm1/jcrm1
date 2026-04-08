@@ -3,10 +3,10 @@
 I am an undergraduate Computer Science student at Purdue University. I have contributed to and owned a variety of projects, both through my university and on my own.
 
 Among other things, here are some of the projects I am working on or have worked on in the past:
- - syscall_intercept, a project to port a Linux userspace syscall intercepting library from x86_64 to RISC-V (specifically, riscv32)
  - [rocket_league](https://github.com/purdue-arc/rocket_league), a project I led through Purdue's Autonomous Robotics Club to make scaled-down cars play soccer autonomously.
  - [3DeSktop](https://github.com/jcrm1/3DeSktop) and threedsmirror, a client/server pair that streams your macOS desktop to your 3DS (a handheld game console)
  - 3DSUSBController, a [three](https://github.com/jcrm1/3DSUSBController-Homebrew)-[part](https://github.com/jcrm1/3DSUSBController-Server) [project](https://github.com/jcrm1/3DSUSBController-USB-Device) that turns your 3DS into a cross-platform wireless USB game controller
+ - syscall_intercept, a project to port a Linux userspace syscall intercepting library from x86_64 to RISC-V (specifically, riscv32)
  - ⛏ [ROSCC](https://github.com/purdue-arc/ROSCC), a modification for Minecraft that bridges it with ROS to help teach ROS to new members of Purdue ARC
  - Several ([dumb](https://github.com/jcrm1/GHCommitGraphAnimator)) browser extensions
  - ⛏ Create: New Age (a Minecraft mod) unofficial v1.1.3 with improved electricity and heat distribution performance ([on my GitLab](https://gitlab.com/jcrm1/create-new-age-newnetworks/-/tree/forge))
