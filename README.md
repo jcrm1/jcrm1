@@ -21,5 +21,3 @@ Among other things, here are some of the projects I am working on or have worked
    - ⛏ SteVTuber is a mod that adds a key to toggle the player's head into a face tracking mode (when paired with an OpenTrack-compatible face tracker app), allowing the player to use their Minecraft character as a virtual persona.
 
 You can see these projects (and more!) in my profile below.
-
-I also enjoy working with macOS and iOS internals!
